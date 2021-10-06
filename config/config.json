@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa8244901b12d21CC924Ebc0639cea90A3A2c48f8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa8244901b12d21CC924Ebc0639cea90A3A2c48f8",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "OPPY",
+  "SYMBOL": "OPPY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/OPPY",
+  "SHOW_BACKGROUND": true
+}
