@@ -1,5 +1,6 @@
 {
   "name": "oppynft-minting-dapp",
+  "homepage": "https://pseyecho.github.io/oppynft-minting-dapp",
   "description": "Quickly mint OPPY NFT's with the OPPY Minting Dapp.",
   "private": false,
   "dependencies": {
