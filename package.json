@@ -1,7 +1,5 @@
 {
   "name": "oppynft-minting-dapp",
-  "homepage": "https://oppynft.github.io/oppynft-minting-dapp",
-  "version": "1.0.0",
   "description": "Quickly mint OPPY NFT's with the OPPY Minting Dapp.",
   "private": true,
   "dependencies": {
