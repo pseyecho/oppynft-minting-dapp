@@ -1,6 +1,5 @@
 {
   "name": "oppynft-minting-dapp",
-  
   "description": "Quickly mint OPPY NFT's with the OPPY Minting Dapp.",
   "private": true,
   "dependencies": {
@@ -35,8 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
