@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/oppynft-minting-dapp/static/css/main.938a821f.chunk.css",
-    "main.js": "/oppynft-minting-dapp/static/js/main.4c3f13b7.chunk.js",
-    "main.js.map": "/oppynft-minting-dapp/static/js/main.4c3f13b7.chunk.js.map",
-    "runtime-main.js": "/oppynft-minting-dapp/static/js/runtime-main.dbd690e5.js",
-    "runtime-main.js.map": "/oppynft-minting-dapp/static/js/runtime-main.dbd690e5.js.map",
-    "static/js/2.faa1635d.chunk.js": "/oppynft-minting-dapp/static/js/2.faa1635d.chunk.js",
-    "static/js/2.faa1635d.chunk.js.map": "/oppynft-minting-dapp/static/js/2.faa1635d.chunk.js.map",
-    "static/js/3.6395781d.chunk.js": "/oppynft-minting-dapp/static/js/3.6395781d.chunk.js",
-    "static/js/3.6395781d.chunk.js.map": "/oppynft-minting-dapp/static/js/3.6395781d.chunk.js.map",
-    "index.html": "/oppynft-minting-dapp/index.html",
-    "static/css/main.938a821f.chunk.css.map": "/oppynft-minting-dapp/static/css/main.938a821f.chunk.css.map",
-    "static/js/2.faa1635d.chunk.js.LICENSE.txt": "/oppynft-minting-dapp/static/js/2.faa1635d.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/oppynft-minting-dapp/static/media/font.11432c89.woff"
+    "main.css": "/static/css/main.c41cb13c.chunk.css",
+    "main.js": "/static/js/main.4c3f13b7.chunk.js",
+    "main.js.map": "/static/js/main.4c3f13b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3065f86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3065f86f.js.map",
+    "static/js/2.5d03db68.chunk.js": "/static/js/2.5d03db68.chunk.js",
+    "static/js/2.5d03db68.chunk.js.map": "/static/js/2.5d03db68.chunk.js.map",
+    "static/js/3.6395781d.chunk.js": "/static/js/3.6395781d.chunk.js",
+    "static/js/3.6395781d.chunk.js.map": "/static/js/3.6395781d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c41cb13c.chunk.css.map": "/static/css/main.c41cb13c.chunk.css.map",
+    "static/js/2.5d03db68.chunk.js.LICENSE.txt": "/static/js/2.5d03db68.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/static/media/font.11432c89.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbd690e5.js",
-    "static/js/2.faa1635d.chunk.js",
-    "static/css/main.938a821f.chunk.css",
+    "static/js/runtime-main.3065f86f.js",
+    "static/js/2.5d03db68.chunk.js",
+    "static/css/main.c41cb13c.chunk.css",
     "static/js/main.4c3f13b7.chunk.js"
   ]
 }
